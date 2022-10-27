@@ -51,6 +51,7 @@ The outputs are written to the directory where Julia was run from.
 *Synthesis of parametric hybrid automata from time series*.
 Proceedings of the 20th International Symposium on Automated Technology for
 Verification and Analysis (ATVA) 2022.
+[DOI](https://doi.org/10.1007/978-3-031-19992-9_22).
 [PDF](https://arxiv.org/abs/2208.06383).
 
 ```bibtex
@@ -58,10 +59,17 @@ Verification and Analysis (ATVA) 2022.
   author    = {Miriam Garc{\'{\i}}a Soto and
                Thomas A. Henzinger and
                Christian Schilling},
+  editor    = {Ahmed Bouajjani and
+               Luk{\'{a}}s Hol{\'{\i}}k and
+               Zhilin Wu},
   title     = {Synthesis of parametric hybrid automata from time series},
   booktitle = {{ATVA}},
   series    = {LNCS},
+  volume    = {13505},
+  pages     = {337--353},
   publisher = {Springer},
-  year      = {2022}
+  year      = {2022},
+  url       = {https://doi.org/10.1007/978-3-031-19992-9_22},
+  doi       = {10.1007/978-3-031-19992-9_22}
 }
 ```
